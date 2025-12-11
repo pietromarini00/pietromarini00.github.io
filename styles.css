@@ -40,14 +40,26 @@ h1 {
 
 /* Sections */
 section {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
+}
+
+#links {
+    position: fixed;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+}
+
+#links h2 {
+    display: none;
 }
 
 h2 {
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 14px;
+    font-weight: 400;
     margin-bottom: 20px;
-    color: #000;
+    color: #666;
+    line-height: 1.8;
 }
 
 p {
@@ -58,10 +70,14 @@ p {
 /* Links List */
 .links-list {
     list-style: none;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .links-list li {
-    margin-bottom: 12px;
+    margin-bottom: 0;
 }
 
 .links-list a {
@@ -69,6 +85,11 @@ p {
     display: inline-flex;
     align-items: center;
     gap: 8px;
+    transition: transform 0.2s ease;
+}
+
+.links-list a:hover {
+    transform: translateY(-2px);
 }
 
 .links-list i {
