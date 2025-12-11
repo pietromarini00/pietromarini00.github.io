@@ -66,6 +66,14 @@ p {
 
 .links-list a {
     font-size: 16px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.links-list i {
+    width: 20px;
+    text-align: center;
 }
 
 /* Work List */
