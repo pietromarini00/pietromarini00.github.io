@@ -91,7 +91,6 @@ findable accessible interoperable reusable
 data availability statement
 interoperable reusable data
 large language models
-data management systems
 metadata extraction tools
 dataset discovery tools
 data provenance tracking
@@ -102,7 +101,7 @@ reproducible research workflows
 scientific data infrastructure
 computational research methods
 open science practices
-research data management
+research datasets
 biomedical data integration
 clinical data analysis
 genomic data processing

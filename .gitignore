@@ -1,1 +1,5 @@
 wordcloud_input/real_input.txt
+wordcloud_output/suggested_ngrams.txt
+wordcloud_output/wordcloud_detailed_breakdown.txt
+wordcloud_output/wordcloud_keywords_semantic.txt
+wordcloud_output/wordcloud_keywords.txt
