@@ -1,0 +1,93 @@
+DETAILED SCORING BREAKDOWN
+Alpha: 0.5 (TF-IDF weight), 0.5 (Semantic weight)
+================================================================================
+
+SINGLE WORDS:
+Term                      Combined   TF-IDF       TF-IDF%      Semantic     Sem%      
+--------------------------------------------------------------------------------
+data                      0.9940     27.3000      1.0000       0.3479       0.9879    
+metadata                  0.9879     9.1000       0.9839       0.3495       0.9919    
+dataset                   0.9859     8.8500       0.9758       0.3840       0.9960    
+semantic                  0.9718     7.4400       0.9597       0.3000       0.9839    
+research                  0.9577     9.0000       0.9798       0.2507       0.9355    
+infrastructure            0.9476     5.7000       0.9476       0.2559       0.9476    
+databases                 0.9415     4.0000       0.9032       0.2821       0.9798    
+cloud                     0.9355     4.8000       0.9274       0.2546       0.9435    
+processing                0.9335     4.8000       0.9274       0.2527       0.9395    
+learning                  0.9113     5.2000       0.9315       0.2353       0.8911    
+databricks                0.9052     3.2000       0.8347       0.2711       0.9758    
+models                    0.9012     8.8000       0.9718       0.2005       0.8306    
+pipelines                 0.9012     4.0000       0.9032       0.2417       0.8992    
+scientific                0.8831     11.8800      0.9919       0.1848       0.7742    
+systems                   0.8790     14.4000      0.9960       0.1824       0.7621    
+parsing                   0.8569     3.5400       0.8427       0.2212       0.8710    
+workflows                 0.8528     2.4000       0.7379       0.2685       0.9677    
+search                    0.8508     3.2000       0.8347       0.2205       0.8669    
+principles                0.8427     4.8000       0.9274       0.1791       0.7581    
+language                  0.8407     4.8000       0.9274       0.1779       0.7540    
+management                0.8387     7.5200       0.9637       0.1608       0.7137    
+tools                     0.8266     2.4000       0.7379       0.2479       0.9153    
+computing                 0.8246     2.4000       0.7379       0.2454       0.9113    
+sql                       0.8185     3.2000       0.8347       0.1920       0.8024    
+content                   0.8125     2.4000       0.7379       0.2344       0.8871    
+discovery                 0.8105     3.2000       0.8347       0.1902       0.7863    
+techniques                0.7923     2.4000       0.7379       0.2095       0.8468    
+projects                  0.7883     2.4000       0.7379       0.2088       0.8387    
+engineering               0.7883     3.1800       0.7500       0.1994       0.8266    
+methods                   0.7823     4.0000       0.9032       0.1480       0.6613    
+standards                 0.7823     4.8000       0.9274       0.1423       0.6371    
+web                       0.7782     2.4000       0.7379       0.1959       0.8185    
+gatherer                  0.7702     3.2000       0.8347       0.1580       0.7056    
+analysis                  0.7681     3.8400       0.8589       0.1535       0.6774    
+technology                0.7681     3.1500       0.7460       0.1905       0.7903    
+statistics                0.7681     2.4000       0.7379       0.1918       0.7984    
+scholarly                 0.7581     2.4000       0.7379       0.1893       0.7782    
+program                   0.7520     2.4000       0.7379       0.1835       0.7661    
+legacy                    0.7419     2.4000       0.7379       0.1758       0.7460    
+migration                 0.7419     3.2000       0.8347       0.1444       0.6492    
+
+
+BIGRAMS:
+Term                           Combined   Freq     Freq%      Semantic     Sem%      
+--------------------------------------------------------------------------------
+data science                   0.9778     4        0.9556     0.4522       1.0000    
+data management                0.9722     9        1.0000     0.3897       0.9444    
+data engineering               0.9611     4        0.9556     0.4092       0.9667    
+data infrastructure            0.9556     4        0.9556     0.3973       0.9556    
+data integration               0.9556     5        0.9778     0.3832       0.9333    
+data principles                0.9500     5        0.9778     0.3756       0.9222    
+dataset metadata               0.9167     3        0.8444     0.4422       0.9889    
+data gatherer                  0.8944     4        0.9556     0.3411       0.8333    
+scientific data                0.8667     4        0.9556     0.3188       0.7778    
+metadata generation            0.8500     3        0.8444     0.3441       0.8556    
+data analysis                  0.8444     4        0.9556     0.2958       0.7333    
+fair data                      0.8333     4        0.9556     0.2943       0.7111    
+metadata extraction            0.8222     3        0.8444     0.3287       0.8000    
+computer science               0.8222     4        0.9556     0.2900       0.6889    
+semantic parsing               0.8111     6        0.9889     0.2711       0.6333    
+
+
+TRIGRAMS:
+Term                                Combined   Freq     Freq%      Semantic     Sem%      
+--------------------------------------------------------------------------------
+scientific data infrastructure      0.9167     2        0.8333     0.3909       1.0000    
+fair data principles                0.9167     4        1.0000     0.3030       0.8333    
+data management systems             0.8958     2        0.8333     0.3410       0.9583    
+nyu data management                 0.8750     2        0.8333     0.3406       0.9167    
+management computer science         0.8542     2        0.8333     0.3149       0.8750    
+data gatherer llm                   0.8125     2        0.8333     0.3002       0.7917    
+code modernization projects         0.7917     2        0.8333     0.2904       0.7500    
+interoperable reusable data         0.7708     2        0.8333     0.2831       0.7083    
+systems semantic parsing            0.7500     2        0.8333     0.2814       0.6667    
+llm powered dataset                 0.7292     2        0.8333     0.2809       0.6250    
+bocconi university data             0.7083     2        0.8333     0.2626       0.5833    
+large language models               0.6875     2        0.8333     0.2506       0.5417    
+additive regression trees           0.6667     3        0.9583     0.2027       0.3750    
+extraction scientific literature    0.6667     2        0.8333     0.2485       0.5000    
+scholarly document processing       0.6458     2        0.8333     0.2426       0.4583    
+
+
+================================================================================
+Formula: Combined = Alpha × Percentile(Freq or TF-IDF) + (1-Alpha) × Percentile(Semantic)
+Freq% = Percentile rank of frequency (0-1 scale)
+Sem% = Percentile rank of semantic similarity (0-1 scale)

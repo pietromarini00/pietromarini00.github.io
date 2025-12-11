@@ -1,0 +1,162 @@
+data management
+computer science
+research engineer
+fair data principles
+management of technology
+data engineering
+machine learning
+deep learning
+semantic parsing
+dataset metadata
+scientific data infrastructure
+bayesian additive regression trees
+new york university
+natural language processing
+data integration systems
+semantic parsing models
+research infrastructure
+research reproducibility
+neural networks
+computer vision
+data analytics
+text and data mining
+data visualization
+data quality
+model training
+model deployment
+model evaluation
+feature engineering
+transfer learning
+reinforcement learning
+supervised learning
+unsupervised learning
+data integration
+data infrastructure
+data systems
+data governance
+data provenance
+data lineage
+data catalog
+data discovery
+data sharing
+data reuse
+metadata standards
+metadata extraction
+metadata generation
+metadata enrichment
+scientific data
+scientific infrastructure
+scientific workflows
+computational biology
+computational methods
+computational analysis
+reproducible research
+reproducible science
+open science
+open data
+semantic parsing
+semantic search
+semantic web
+semantic analysis
+language models
+transformer models
+attention mechanisms
+dataset metadata
+dataset discovery
+dataset linkage
+dataset ontologies
+knowledge graphs
+graph databases
+relational databases
+document databases
+cloud platforms
+cloud infrastructure
+cloud computing
+distributed systems
+software engineering
+data engineering
+system design
+api design
+etl pipelines
+code migration
+legacy systems
+system integration
+nyu vida
+georgia tech
+bocconi university
+data standards
+bocconi university milan
+fair data principles
+findable accessible interoperable reusable
+data availability statement
+interoperable reusable data
+large language models
+data management systems
+metadata extraction tools
+dataset discovery tools
+data provenance tracking
+data lineage tracking
+metadata generation pipeline
+dataset linkage methods
+reproducible research workflows
+scientific data infrastructure
+computational research methods
+open science practices
+research data management
+biomedical data integration
+clinical data analysis
+genomic data processing
+llm powered systems
+semantic parsing techniques
+knowledge graph construction
+graph database systems
+document processing pipelines
+statistical machine learning
+probabilistic graphical models
+reinforcement learning algorithms
+supervised learning techniques
+feature extraction methods
+dimensionality reduction techniques
+clustering algorithms methods
+cloud platform migration
+etl pipeline development
+distributed computing systems
+microservices architecture design
+api gateway design
+database schema design
+system architecture patterns
+software design patterns
+code modernization projects
+scholarly document processing
+scientific literature mining
+citation network analysis
+publication metadata extraction
+research paper analysis
+data gatherer project
+data quality assessment
+data normalization procedures
+data transformation pipelines
+data enrichment processes
+research team collaboration
+interdisciplinary research teams
+cross institutional collaboration
+retrieval augmented generation
+industry academic partnerships
+open source contributions
+community driven development
+scalable data infrastructure
+distributed storage systems
+high performance computing
+containerized application deployment
+kubernetes orchestration systems
+docker container management
+metadata schema standards
+data exchange protocols
+api specification standards
+ontology development standards
+semantic web standards
+linked data principles
+exploratory data analysis
+statistical data analysis
+predictive model development
+time series forecasting

@@ -1,0 +1,88 @@
+======================================================================
+UNIQUE TERMS (TF-IDF Scored)
+======================================================================
+
+Single words:
+data, scientific, science, nyu, management, research, dataset, datasets, systems, understanding, york, models, technology, usa, computer, italy, professor, future, engineer, metadata
+
+Bigrams:
+data management, york usa, data science, georgia institute, institute technology, computer science, data gatherer, research engineer, fair data, data principles
+
+Trigrams:
+georgia institute technology, fair data principles, thesis bayesian additive, bayesian additive regression, additive regression trees, data gatherer llm-powered, gatherer llm-powered dataset, extraction scientific literature, nyu data management, aws azure databricks
+
+======================================================================
+DETAILED SCORES
+======================================================================
+
+TF-IDF Words:
+  data: 0.1631
+  scientific: 0.0768
+  science: 0.0576
+  nyu: 0.0576
+  management: 0.0528
+  research: 0.0480
+  dataset: 0.0384
+  datasets: 0.0384
+  systems: 0.0384
+  understanding: 0.0336
+  york: 0.0288
+  models: 0.0288
+  technology: 0.0288
+  usa: 0.0288
+  computer: 0.0240
+  italy: 0.0240
+  professor: 0.0240
+  future: 0.0240
+  engineer: 0.0192
+  metadata: 0.0192
+  university: 0.0192
+  georgia: 0.0192
+  bayesian: 0.0192
+  experience: 0.0192
+  center: 0.0192
+  semantic: 0.0192
+  built: 0.0192
+  databricks: 0.0192
+  sql: 0.0192
+  gap: 0.0192
+  language: 0.0144
+  principles: 0.0144
+  integration: 0.0144
+  reproducible: 0.0144
+  relevant: 0.0144
+  institute: 0.0144
+  vision: 0.0144
+  statistics: 0.0144
+  vida: 0.0144
+  june: 0.0144
+
+Bigrams:
+  data management: 6
+  york usa: 4
+  data science: 4
+  georgia institute: 3
+  institute technology: 3
+  computer science: 3
+  data gatherer: 3
+  research engineer: 2
+  fair data: 2
+  data principles: 2
+  data integration: 2
+  management technology: 2
+  data engineering: 2
+  atlanta usa: 2
+  natural language: 2
+
+Trigrams:
+  georgia institute technology: 3
+  fair data principles: 2
+  thesis bayesian additive: 2
+  bayesian additive regression: 2
+  additive regression trees: 2
+  data gatherer llm-powered: 2
+  gatherer llm-powered dataset: 2
+  extraction scientific literature: 2
+  nyu data management: 2
+  aws azure databricks: 2
+  professor juliana freire: 2
