@@ -90,7 +90,7 @@ p {
 }
 
 .links-list a {
-    font-size: 16px;
+    font-size: 20px;
     display: inline-flex;
     align-items: center;
     gap: 8px;
@@ -169,14 +169,14 @@ footer {
     bottom: 0;
     left: 0;
     right: 0;
-    padding: 20px 20px 10px 20px;
-    background: linear-gradient(to top, #ffffff 0%, #ffffff 70%, rgba(255, 255, 255, 0) 100%);
+    padding: 40px 20px 20px 20px;
+    background: linear-gradient(to top, #ffffff 0%, #ffffff 80%, rgba(255, 255, 255, 0) 100%);
     text-align: center;
     z-index: 999;
 }
 
 footer .links-list {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 footer p {
