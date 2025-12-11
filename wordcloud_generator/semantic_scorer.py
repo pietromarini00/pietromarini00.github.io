@@ -26,7 +26,7 @@ STOP_WORDS = {
     'were', 'said', 'did', 'having', 'may', 'should', 'am', 'being', 'such', 'where',
     'through', 'here', 'more', 'very', 'each', 'those', 'while', 'both', 'between',
     'during', 'before', 'under', 'around', 'within', 'without', 'toward', 'across',
-    'yet', 'still', 'never', 'ever', 'often', 'always', 'sometimes', 'usually',
+    'yet', 'still', 'never', 'ever', 'often', 'always', 'sometimes', 'usually', 'due'
 }
 
 def get_word_embeddings():

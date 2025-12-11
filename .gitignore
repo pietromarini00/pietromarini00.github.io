@@ -3,3 +3,16 @@ wordcloud_output/suggested_ngrams.txt
 wordcloud_output/wordcloud_detailed_breakdown.txt
 wordcloud_output/wordcloud_keywords_semantic.txt
 wordcloud_output/wordcloud_keywords.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
