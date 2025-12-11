@@ -55,6 +55,19 @@ p {
     margin-bottom: 15px;
 }
 
+/* Links List */
+.links-list {
+    list-style: none;
+}
+
+.links-list li {
+    margin-bottom: 12px;
+}
+
+.links-list a {
+    font-size: 16px;
+}
+
 /* Work List */
 .work-list {
     list-style: none;
