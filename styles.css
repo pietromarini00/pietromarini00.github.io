@@ -16,7 +16,7 @@ body {
 .container {
     max-width: 700px;
     margin: 0 auto;
-    padding: 140px 20px 100px 20px;
+    padding: 100px 20px 140px 20px;
 }
 
 /* Header */
@@ -26,7 +26,7 @@ header {
     left: 0;
     right: 0;
     margin-bottom: 0;
-    padding: 30px 20px;
+    padding: 20px 20px;
     background: linear-gradient(to bottom, #ffffff 0%, #ffffff 70%, rgba(255, 255, 255, 0) 100%);
     z-index: 1000;
 }
@@ -52,16 +52,7 @@ section {
     margin-bottom: 40px;
 }
 
-#links {
-    position: fixed;
-    bottom: 30px;
-    left: 0;
-    right: 0;
-}
 
-#links h2 {
-    display: none;
-}
 
 h2 {
     font-size: 11px;
@@ -175,18 +166,23 @@ a.link:hover {
 /* Footer */
 footer {
     position: fixed;
-    bottom: 60px;
+    bottom: 0;
     left: 0;
     right: 0;
-    padding: 30px 20px 10px 20px;
-    background: linear-gradient(to top, #ffffff 0%, #ffffff 50%, rgba(255, 255, 255, 0) 100%);
+    padding: 20px 20px 10px 20px;
+    background: linear-gradient(to top, #ffffff 0%, #ffffff 70%, rgba(255, 255, 255, 0) 100%);
     text-align: center;
     z-index: 999;
+}
+
+footer .links-list {
+    margin-bottom: 10px;
 }
 
 footer p {
     font-size: 14px;
     color: #888;
+    margin-top: 5px;
 }
 
 /* Responsive Design */
